@@ -20,28 +20,6 @@ Try out the live demo: [To-Do App Demo](#)
 - **HTML5**: Structure and semantics
 - **CSS3**: Styling and layout
 - **JavaScript (ES6)**: Functionality and DOM manipulation
-- **Local Storage API**: Data persistence
-
-## Getting Started
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/alisterpriv/to-do-app.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd to-do-app
-```
-
-3. Open `index.html` in your browser:
-```bash
-open index.html
-```
-
-Or simply double-click the `index.html` file.
 
 ## Usage
 
@@ -49,19 +27,6 @@ Or simply double-click the `index.html` file.
 2. **Editing a Task**: Click the edit icon (✏️) next to any task, modify the text, and save
 3. **Completing a Task**: Click the checkbox next to a task to mark it as complete
 4. **Deleting a Task**: Click the delete icon (🗑️) to remove a task
-
-## Project Structure
-
-```
-to-do-app/
-│
-├── index.html          # Main HTML file
-├── style.css           # Stylesheet
-├── script.js           # JavaScript functionality
-├── edit.svg            # Edit icon
-├── delete.svg          # Delete icon
-└── README.md           # Project documentation
-```
 
 ## Code Highlights
 
@@ -88,10 +53,6 @@ Contributions are welcome! Feel free to:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
